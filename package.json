@@ -66,6 +66,10 @@
 		"url": "https://github.com/MR-Mostafa/viact/issues"
 	},
 	"dependencies": {
+		"@mui/material": "^5.9.1",
+		"@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
 		"react": "^18.1.0",
 		"react-dom": "^18.1.0",
 		"react-error-boundary": "^3.1.4",
